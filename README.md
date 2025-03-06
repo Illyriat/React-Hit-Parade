@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
-Ecommerce React App, that handles clicks to Add/Delete Items into a Shopping basket. 
+Music Chart App, that brings information from the iTunes API.
 
 # How to start
 
